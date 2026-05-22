@@ -1,0 +1,9 @@
+{
+  "projectName": "jyo-salon",
+  "buildCommand": "next build",
+  "outputDirectory": ".next",
+  "regions": ["blr1"],
+  "env": {
+    "NEXT_PUBLIC_SITE_URL": "@site-url"
+  }
+}
